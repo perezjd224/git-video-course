@@ -1,1 +1,1 @@
-These aree the changes added from remote.
+Ammending commit demo 1.
