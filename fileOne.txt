@@ -1,2 +1,5 @@
-Git revert demo 1 file one
-
+<<<<<<< HEAD
+Git revert demo 1.
+=======
+Git restore demo 1 unstagged
+>>>>>>> 3600306fb61ed07eacdec484293064abd199f432
